@@ -12,3 +12,7 @@ namespace Vidly
         }
     }
 }
+
+//git remote add origin https://github.com/noriel1214/Test1.git
+//git branch -M main
+//git push -u origin main
